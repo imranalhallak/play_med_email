@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326500405645",
+    "project_id": "play-med-90906309",
+    "storage_bucket": "play-med-90906309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326500405645:android:c4fa867444e33e75e86dc4",
+        "android_client_info": {
+          "package_name": "games.medicres.play_med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326500405645-93bdqsapsb144v53uahhu30msc5t09hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6N_GLVk8Hl0XXparm_RYrvKepLFEaC44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326500405645-93bdqsapsb144v53uahhu30msc5t09hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
